@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there! I'm Ricardo Gonçalves 
 
 I'm a researcher/data analyst, I hold a Ph.D. in Political Science from the Federal University of Paraná. I want to build a career as a R&D team leader.
 
