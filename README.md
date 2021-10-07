@@ -6,6 +6,7 @@ I'm a researcher/data analyst, I hold a Ph.D. in Political Science from the Fede
 * 😄 Pronouns: He/Him (pt-🇧🇷: Ele/Dele)
 * 🔭 I’m currently working: on a book for social scientists on how to make electoral maps, but I'm looking for a full-time job
 * 🌱 I’m currently learning: leadership skills
+* :man_technologist: I'm interested in: data analysis, data visualization, mix methods research team, spatial analysis 
 * 💬 Ask me about: Electoral Geography, Spatial Analysis, Brazilian electoral data, Political Methodology
 * 📫 How to reach me: goncalves.r@pm.me
 * ⚡ Fun fact: I enjoy cooking, especially slow cooker meals (I make a great 100-hour lasagne)
